@@ -1,0 +1,4 @@
+1) Update SML in F:\Satisfactory - No Scene Occlusion Mod\Source\SML
+2) Rebuild using VS2019
+3) Repack DLL in .smod
+4) Publish on Satisfacotry Mod Repository
