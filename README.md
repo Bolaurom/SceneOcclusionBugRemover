@@ -1,3 +1,5 @@
+A mod by https://github.com/bolaurom & https://github.com/ErZZoiN
+
 # SatisfactoryModLoader [![Build Status](https://ci.ficsit.app/job/SML2/job/master/badge/icon)](https://ci.ficsit.app/job/SML2/job/master/)
 A tool used to load mods for the game Satisfactory. It's under development until Coffee Stain releases a proper Unreal modding API.
 
